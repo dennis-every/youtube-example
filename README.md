@@ -1,1 +1,1 @@
-<!-- Created readme -->
+https://github.com/TheOdinProject/curriculum
